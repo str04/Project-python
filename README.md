@@ -1,0 +1,3 @@
+# Project-python
+ Predict a student's percentage based on their study hours using linear regression. The model estimates the percentage score a student may achieve given the number of hours they study.
+ To predict a student's percentage based on the number of study hours, we can use linear regression. The linear regression model will analyze the relationship between the number of study hours (independent variable) and the student's percentage (dependent variable) in the given data. Once the model is trained, it can be used to make predictions for any new number of study hours to estimate the corresponding percentage. This predictive model helps understand how study hours influence a student's academic performance.
